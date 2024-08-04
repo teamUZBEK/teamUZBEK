@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @teamUZBEK
-- 👀 I’m interested in cybersecurity and automation
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @YCG
+- 👀 I’m interested in cybersecurity
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: ycoders.info@gmail.com
 
